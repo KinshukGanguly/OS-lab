@@ -1,0 +1,9 @@
+1.
+~$ ls /bin
+
+2.
+~$ ls -a
+3.
+~$ ls -d*/
+ls -d*/
+4.cat >Text1.txt
